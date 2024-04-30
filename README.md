@@ -1,5 +1,3 @@
-Pequeno app para sortear um número dentre a quantidade desejada
-
 
 ![image](https://github.com/Jops-Garcia/Sorteador/assets/56653059/4f5654f2-4b4e-484b-ade2-ff6fa9d9c086)
 
